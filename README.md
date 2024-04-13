@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front-end dev<br>🤝 I’m looking for help with learning and tips<br>🌱 I’m currently learning HTML, CSS and JS<br>💬 Ask me about something<br>⚡ Fun fact back lover
+🔭 I’m currently working on Front-end dev<br>🤝 I’m looking for help with learning and tips<br>🌱 I’m currently Python e exel para contabilidade<br>
 
 
 ## 🌐 Socials:
