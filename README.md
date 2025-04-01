@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Carlos e tenho 20 anos</p>
+<p align="left">Meu nome é Carlos e tenho 21 anos.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Estudando  Python<br>🎯 Metas: Conseguir um emprego na área de T.I<br>🎲 Fato aleatório: intolerante a lactose com descendência italiana</p>
+<p align="left">📚 Estudando  Python<br>🎯 Metas: Conseguir um emprego na área de T.I<br>🎲 Fato aleatório: intolerante a lactose com descendência italiana  curso Ciencia da Computacao na UVA - TIJUCA</p>
 
 ###
 
