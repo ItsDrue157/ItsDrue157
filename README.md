@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Estudando  Python<br>🎯 Metas: Conseguir um emprego na área de T.I<br> 👨🏻‍🎓 Curso Ciencia da Computacao na UVA - TIJUCA</br>🎲 Fato aleatório: intolerante a lactose com descendência italiana</p>
+<p align="left">📚 Estudando  Python<br>🎯 Metas: Conseguir um emprego na área de T.I<br> 👨🏻‍🎓 Curso Ciencia da Computacao na UVA - TIJUCA</br>🎲 Fato aleatório: intolerante a lactose</p>
 
 ###
 
