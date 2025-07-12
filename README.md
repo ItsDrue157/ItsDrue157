@@ -1,4 +1,4 @@
-<h1 align="left">Qual a boa??? 👋</h1>
+<h1 align="left"></h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Estudando  Python<br>🎯 Metas: Conseguir um emprego na área de T.I<br> 👨🏻‍🎓 Curso Ciencia da Computacao na UVA - TIJUCA</br></p>
+<p align="left">📚 Estudando  Python<br> 👨🏻‍🎓 Curso Ciencia da Computacao na UVA - TIJUCA</br></p>
 
 ###
 
@@ -20,8 +20,6 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
