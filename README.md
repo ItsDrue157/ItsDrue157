@@ -1,4 +1,4 @@
-<h1 align="left"></h1>
+<h1 align="left">Bem-Vindo ao meu perfil no GitHub. </h1>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">📚 Estudando  Python<br> 👨🏻‍🎓 Curso Ciencia da Computacao na UVA - TIJUCA</br></p>
+<p align="left">📚 Estudando  Python<br> 👨🏻‍🎓 Curso Ciência da Computação na Veiga de Almeida</br></p>
 
 ###
 
-<h2 align="left">Eu programo com</h2>
+<h2 align="left">Utilizo estas tecnologias: </h2>
 
 ###
 
