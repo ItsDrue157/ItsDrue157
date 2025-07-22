@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Estudando  Python<br> 👨🏻‍🎓 Curso Ciência da Computação na Veiga de Almeida</br></p>
+<p align="left">📚 Estudando  Python<br> 👨🏻‍🎓 Ciência da Computação na Veiga de Almeida</br></p>
 
 ###
 
