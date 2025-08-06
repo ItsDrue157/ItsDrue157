@@ -12,11 +12,6 @@
 
 <p align="left">📚 Estudando  Python<br> 👨🏻‍🎓 Ciência da Computação na Veiga de Almeida</br></p>
 
-<h2>Metas</h2>
-<p>Criar Software backend</p>
-<p>Criar Software backend + IA</p>
-<p>Criar Software backend + frontend</p>
-
 ###
 
 <h2 align="left">Utilizo estas tecnologias: </h2>
