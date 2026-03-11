@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">An explorer developer in Python</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsdrue157" alt="itsdrue157" /></a> </p>
 
 - 🔭 I’m currently working on [SurfToday](github.com/ItsDrue157/SurfToday)
 
