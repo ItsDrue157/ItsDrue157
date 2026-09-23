@@ -2,11 +2,11 @@
 <h3 align="center">An explorer developer in Python</h3>
 
 
-- 🔭 I’m currently working on [SurfToday](github.com/ItsDrue157/SurfToday)
+- 🔭 I’m currently working on [RouterAI](https://github.com/ItsDrue157/RouterAI)
 
 - 🌱 I’m currently learning **Python, Flask, and Docker**
 
-- 🤝 I’m looking for help with [SurfToday](github.com/ItsDrue157/SurfToday)
+- 🤝 I’m looking for help with [RouterAI](https://github.com/ItsDrue157/RouterAI)
 
 - 👨‍💻 All of my projects are available at [portifolio-rho-self-83.vercel.app/](portifolio-rho-self-83.vercel.app/)
 
