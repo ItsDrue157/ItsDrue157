@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with [RouterAI](https://github.com/ItsDrue157/RouterAI)
 
-- 👨‍💻 All of my projects are available at [portifolio-rho-self-83.vercel.app/](portifolio-rho-self-83.vercel.app/)
+- 👨‍💻 All of my projects are available at <a href="portifolio-rho-self-83.vercel.app/">
 
 - 💬 Ask me about **games and Programming**
 
