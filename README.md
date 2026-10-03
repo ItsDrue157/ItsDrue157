@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [portifolio-rho-self-83.vercel.app/](portifolio-rho-self-83.vercel.app/)
 
-- 💬 Ask me about **games and Programmin**
+- 💬 Ask me about **games and Programming**
 
 - 📫 How to reach me **carlosmateus7720@gmail.com**
 
