@@ -1,23 +1,33 @@
-<h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">An explorer developer in Python</h3>
+# Carlos
 
+**Python · Backend Development · Automation**
 
-- 🔭 I’m currently working on [RouterAI](https://github.com/ItsDrue157/RouterAI)
+I'm a Computer Science student focused on backend development with Python.
 
-- 🌱 I’m currently learning **Python, Flask, and Docker**
+I'm interested in understanding how systems work, from application logic to their integration with databases, APIs, and infrastructure.
 
-- 🤝 I’m looking for help with [RouterAI](https://github.com/ItsDrue157/RouterAI)
+I enjoy building tools that solve everyday problems and exploring new technologies through hands-on projects.
 
-- 👨‍💻 All of my projects are available at <a href="portifolio-rho-self-83.vercel.app/">
+## Projects
 
-- 💬 Ask me about **games and Programming**
+| Project | Description |
+| --- | --- |
+| [RouterAI](https://github.com/ItsDrue157/RouterAI) | A local AI routing system built with Python and FastAPI, designed to direct messages to specialized AI agents. |
+| TorBox Monitor | A Python service that tracks download states, detects changes, and sends automated notifications. |
 
-- 📫 How to reach me **carlosmateus7720@gmail.com**
+## What I'm Exploring
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/borg3s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="borg3s" height="30" width="40" /></a>
-</p>
+- **Backend development:** API design, databases, application architecture, and software organization.
+- **Infrastructure and self-hosting:** repurposing old hardware into personal servers, experimenting with virtualization, hosting services, and managing Linux environments.
+- **Local AI:** running language models locally, routing between specialized agents, and integrating AI into Python applications.
+- **Software engineering:** automated testing, code maintenance, and collaborative development.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## How I Build
+
+I try to understand the problem and structure a solution before writing code. I prefer breaking applications into components with clearly defined responsibilities, making them easier to develop and maintain.
+
+I use hands-on projects to deepen my knowledge, experiment with different approaches, and better understand the technical decisions involved in building software.
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/borg3s) · [Portfolio](https://portifolio-rho-self-83.vercel.app/) · [Email](mailto:carlosmateus7720@gmail.com)
